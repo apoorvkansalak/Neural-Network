@@ -1,2 +1,2 @@
-# Perceptron
-A foundation for neural networking
+#Neural Networking
+_ This is a program or repo to create a model of **Neural Networking**_
